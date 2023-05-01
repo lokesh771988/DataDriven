@@ -1,0 +1,304 @@
+2023-05-01 08:44:01,800: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 08:44:05,971: Login Page: INFO: ================== verifying home title =========
+2023-05-01 08:44:07,300: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 08:44:15,145: Login Page: INFO: ================== providing user name =========
+2023-05-01 08:44:15,283: Login Page: INFO: =============== providing password ==============
+2023-05-01 08:44:15,405: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 08:44:23,788: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 08:45:29,130: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 08:45:32,787: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 08:45:32,930: Login Page: INFO: ================== verifying home title =========
+2023-05-01 08:45:34,277: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 08:45:43,592: Login Page: INFO: ================== providing user name =========
+2023-05-01 08:45:43,724: Login Page: INFO: =============== providing password ==============
+2023-05-01 08:45:43,845: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 08:45:50,782: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 08:51:52,270: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 08:51:55,579: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 08:51:55,748: Login Page: INFO: ================== verifying home title =========
+2023-05-01 08:51:57,015: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 08:52:04,943: Login Page: INFO: ================== providing user name =========
+2023-05-01 08:52:05,091: Login Page: INFO: =============== providing password ==============
+2023-05-01 08:52:05,222: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 08:52:11,595: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 08:52:27,622: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 08:52:30,433: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 08:52:30,615: Login Page: INFO: ================== verifying home title =========
+2023-05-01 08:52:34,119: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 08:52:42,586: Login Page: INFO: ================== providing user name =========
+2023-05-01 08:52:42,743: Login Page: INFO: =============== providing password ==============
+2023-05-01 08:52:42,872: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 08:52:49,607: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 08:54:04,478: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 08:54:04,725: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 08:54:08,220: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 08:54:08,337: Login Page: INFO: ================== verifying home title =========
+2023-05-01 08:54:13,457: Login Page: INFO: ================== providing user name =========
+2023-05-01 08:54:13,608: Login Page: INFO: =============== providing password ==============
+2023-05-01 08:54:13,734: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 08:54:20,655: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 08:55:38,618: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 08:55:38,685: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 08:55:41,951: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 08:55:42,103: Login Page: INFO: ================== verifying home title =========
+2023-05-01 08:55:46,779: Login Page: INFO: ================== providing user name =========
+2023-05-01 08:55:46,915: Login Page: INFO: =============== providing password ==============
+2023-05-01 08:55:47,040: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 08:55:53,894: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 08:59:59,179: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 08:59:59,195: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:00:02,792: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:00:02,895: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:00:07,323: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:00:07,459: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:00:07,590: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:00:13,796: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:02:34,588: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:02:34,629: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:02:37,656: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:02:37,805: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:02:43,250: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:02:43,382: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:02:43,504: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:02:50,371: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:40:18,323: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:40:18,335: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:40:18,344: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:40:22,232: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:40:22,418: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:40:24,132: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 09:40:24,277: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 09:40:24,398: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:40:27,397: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:40:27,524: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:40:27,652: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:40:30,703: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:40:30,876: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:40:34,387: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:50:51,929: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:50:52,096: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:50:52,113: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:50:55,778: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:50:55,944: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:50:57,873: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 09:50:57,993: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 09:50:58,110: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:51:00,945: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:51:01,072: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:51:01,187: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:51:07,863: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:51:38,847: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:51:38,896: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:51:38,898: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:51:42,531: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:51:42,677: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:51:44,926: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 09:51:45,118: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 09:51:45,288: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:51:47,441: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:51:47,582: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:51:47,714: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:51:52,883: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:51:53,072: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:51:53,900: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:52:10,192: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:52:13,363: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:52:13,518: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:52:14,790: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:52:23,077: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:52:23,213: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:52:23,338: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:52:30,055: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:52:31,572: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:52:36,655: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 09:52:36,821: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 09:52:36,946: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:52:43,587: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:52:43,785: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:53:50,444: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:53:50,586: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:53:50,697: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:53:54,086: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:53:54,199: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:53:56,243: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 09:53:56,373: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 09:53:56,505: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:53:58,782: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:53:58,921: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:53:59,050: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:54:05,209: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:55:28,722: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:55:28,752: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:55:28,814: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:55:32,266: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:55:32,368: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:55:34,091: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 09:55:34,212: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 09:55:34,343: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:55:36,824: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:55:36,947: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:55:37,064: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:55:40,586: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:55:40,726: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:55:43,275: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:58:06,173: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:58:06,296: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:58:06,364: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:58:10,606: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:58:10,736: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:58:11,818: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 09:58:11,985: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 09:58:12,125: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:58:15,632: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:58:15,757: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:58:15,861: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:58:18,041: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 09:58:22,528: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 09:59:12,577: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 09:59:12,716: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 09:59:12,722: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 09:59:16,066: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 09:59:16,178: Login Page: INFO: ================== verifying home title =========
+2023-05-01 09:59:18,091: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 09:59:18,229: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 09:59:18,350: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:59:21,020: Login Page: INFO: ================== providing user name =========
+2023-05-01 09:59:21,145: Login Page: INFO: =============== providing password ==============
+2023-05-01 09:59:21,272: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 09:59:24,117: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 09:59:28,999: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:00:34,384: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 10:00:34,407: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 10:00:37,697: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 10:00:37,815: Login Page: INFO: ================== verifying home title =========
+2023-05-01 10:00:42,809: Login Page: INFO: ================== providing user name =========
+2023-05-01 10:00:42,900: Login Page: INFO: =============== providing password ==============
+2023-05-01 10:00:42,986: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:00:49,321: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:01:24,994: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:01:25,103: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 10:01:25,237: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 10:01:28,318: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 10:01:28,584: Login Page: INFO: ================== verifying home title =========
+2023-05-01 10:01:30,398: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 10:01:30,530: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 10:01:30,678: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:01:33,671: Login Page: INFO: ================== providing user name =========
+2023-05-01 10:01:33,803: Login Page: INFO: =============== providing password ==============
+2023-05-01 10:01:33,932: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:01:37,268: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:01:37,293: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:01:40,549: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 10:01:40,622: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:01:40,712: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 10:01:40,866: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:01:47,754: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:01:47,778: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:01:50,940: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 10:01:51,051: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 10:01:51,165: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:01:57,345: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 10:10:50,104: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:10:50,109: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 10:10:50,138: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 10:10:55,131: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 10:10:55,237: Login Page: INFO: ================== verifying home title =========
+2023-05-01 10:10:57,885: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 10:10:58,025: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 10:10:58,187: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:11:00,098: Login Page: INFO: ================== providing user name =========
+2023-05-01 10:11:00,251: Login Page: INFO: =============== providing password ==============
+2023-05-01 10:11:00,414: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:11:04,887: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:11:05,073: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:11:07,128: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:11:43,364: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 10:11:43,368: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 10:11:43,598: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:11:46,629: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 10:11:46,843: Login Page: INFO: ================== verifying home title =========
+2023-05-01 10:11:49,107: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 10:11:49,250: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 10:11:49,396: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:11:51,949: Login Page: INFO: ================== providing user name =========
+2023-05-01 10:11:52,083: Login Page: INFO: =============== providing password ==============
+2023-05-01 10:11:52,223: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:11:56,112: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:11:56,285: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:11:58,949: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:12:38,337: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 10:12:38,435: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:12:38,488: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 10:12:43,326: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 10:12:43,460: Login Page: INFO: ================== verifying home title =========
+2023-05-01 10:12:45,623: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 10:12:45,778: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 10:12:45,937: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:12:47,913: Login Page: INFO: ================== providing user name =========
+2023-05-01 10:12:48,066: Login Page: INFO: =============== providing password ==============
+2023-05-01 10:12:48,222: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:12:52,560: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:12:52,588: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:12:54,797: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 10:12:55,767: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 10:12:55,890: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 10:12:56,005: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:13:03,367: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 10:13:03,391: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 10:13:06,718: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 10:13:06,847: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 10:13:06,959: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 10:13:13,348: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 11:40:23,319: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 11:40:23,590: Login Page: INFO: ================== opening browser for TC2 verify login page =========
+2023-05-01 11:40:23,780: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 11:40:27,564: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 11:40:27,677: Login Page: INFO: ================== verifying home title =========
+2023-05-01 11:40:29,130: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 11:40:29,258: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 11:40:29,378: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 11:40:33,321: Login Page: INFO: ================== providing user name =========
+2023-05-01 11:40:33,450: Login Page: INFO: =============== providing password ==============
+2023-05-01 11:40:33,574: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 11:40:35,671: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 11:40:35,708: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 11:40:38,751: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 11:40:38,880: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 11:40:38,996: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 11:40:40,249: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 11:40:45,285: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 11:40:45,311: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 11:40:48,481: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 11:40:48,619: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 11:40:48,743: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 11:40:55,009: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 12:29:20,314: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 12:29:23,942: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 12:29:24,119: Login Page: INFO: ================== verifying home title =========
+2023-05-01 12:29:25,457: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 12:29:30,634: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 12:29:30,805: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 12:29:30,961: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 12:29:37,285: Login Page: INFO: =============== verifying login successful message ==============
+2023-05-01 12:29:37,311: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 12:29:41,722: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 12:29:41,855: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 12:29:41,971: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 12:29:48,732: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 12:29:48,758: Login Page: INFO: ================== opening browser for TC3 verify login page using excel =========
+2023-05-01 12:29:52,098: Login Page: INFO: ================== providing user name using excel=========
+2023-05-01 12:29:52,243: Login Page: INFO: =============== providing password using excel==============
+2023-05-01 12:29:52,357: Login Page: INFO: =============== clicking login button in login page ==============
+2023-05-01 12:29:58,659: Login Page: INFO: =============== verifying login Fail message ==============
+2023-05-01 12:31:22,619: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 12:31:30,793: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 12:31:30,938: Login Page: INFO: ================== verifying home title =========
+2023-05-01 12:38:45,105: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 12:38:50,152: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 12:38:50,260: Login Page: INFO: ================== verifying home title =========
+2023-05-01 12:54:38,513: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 12:54:41,940: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 12:54:42,079: Login Page: INFO: ================== verifying home title =========
+2023-05-01 12:55:22,926: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 12:55:26,841: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 12:55:26,972: Login Page: INFO: ================== verifying home title =========
