@@ -302,3 +302,9 @@
 2023-05-01 12:55:22,926: Login Page: INFO: ================== opening browser for TC1 verify home page =========
 2023-05-01 12:55:26,841: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
 2023-05-01 12:55:26,972: Login Page: INFO: ================== verifying home title =========
+2023-05-01 14:44:45,625: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 14:44:48,709: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 14:44:48,804: Login Page: INFO: ================== verifying home title =========
+2023-05-01 14:49:33,143: Login Page: INFO: ================== opening browser for TC1 verify home page =========
+2023-05-01 14:49:36,615: Login Page: INFO: Getting Title of the home page== Welcome: Mercury Tours
+2023-05-01 14:49:36,730: Login Page: INFO: ================== verifying home title =========
